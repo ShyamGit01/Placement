@@ -3,19 +3,19 @@ Here wou will get Formulas, Questions, Tricks to slove
 
 ### Quantitative Aptitude
   1. Numbers
-    - HCF and LCM \n
-    - Number System \n
-    - Number Decimals & Fractions \n
-    - Surds and Indices \n
-    - Divisibility \n
-    - Ages \n
-    - Inverse \n 
+    - HCF and LCM <br>
+    - Number System <br>
+    - Number Decimals & Fractions <br>
+    - Surds and Indices <br>
+    - Divisibility <br>
+    - Ages <br>
+    - Inverse <br> 
     
   2. Speed and Work
-    - Speed Time and Distance \n
-    - Work and Time \n
-    - Boats and Streams \n
-    - Pipes and Cisterns \n
+    - Speed Time and Distance <br>
+    - Work and Time <br>
+    - Boats and Streams <br>
+    - Pipes and Cisterns <br>
     
   3. Progressions
   4. Classic Banking
