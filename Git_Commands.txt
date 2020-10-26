@@ -36,7 +36,8 @@ $ git commit -m " Commit Message"
 
 4. Track changes
 Git diff
-Track the changes that have not been staged: $ git diff
+Track the changes that have not been staged: 
+$ git diff
 Track the changes that have staged but not committed:
 $ git diff --staged
 Track the changes after committing a file:
