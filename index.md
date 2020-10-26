@@ -2,7 +2,7 @@
 Here wou will get Formulas, Questions, Tricks to slove
 
 ### Quantitative Aptitude
-  1. Numbers
+  1. Numbers<br>
     - HCF and LCM <br>
     - Number System <br>
     - Number Decimals & Fractions <br>
@@ -11,7 +11,7 @@ Here wou will get Formulas, Questions, Tricks to slove
     - Ages <br>
     - Inverse <br> 
     
-  2. Speed and Work
+  2. Speed and Work<br>
     - Speed Time and Distance <br>
     - Work and Time <br>
     - Boats and Streams <br>
