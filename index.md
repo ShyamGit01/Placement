@@ -1,3 +1,4 @@
+gem 'jekyll-relative-links'
 # Welcome to Placement Trick 
 Here wou will get Formulas, Questions, Tricks to slove
 
@@ -12,7 +13,7 @@ Here wou will get Formulas, Questions, Tricks to slove
     - Inverse <br> 
     
   2. Speed and Work<br> 
-    - [Speed Time and Distance](https://shyamgit01.github.io/Placement/Quant/Speed, Time and Distance) <br>
+    - [Speed Time and Distance](https://shyamgit01.github.io/Placement/Quant/SpeedTimeDistance.md) <br>
     - Work and Time <br>
     - Boats and Streams <br>
     - Pipes and Cisterns <br>
