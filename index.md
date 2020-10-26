@@ -1,21 +1,31 @@
-## Welcome to GitHub Pages
+# Welcome to Placement Trick 
+Here wou will get Formulas, Questions, Tricks to slove
 
-You can use the [editor on GitHub](https://github.com/ShyamGit01/Placement/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-Test
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### Quantitative Aptitude
+  1. Numbers
+    - HCF and LCM
+    - Number System 
+    - Number Decimals & Fractions
+    - Surds and Indices
+    - Divisibility
+    - Ages 
+    - Inverse 
+    
+  2. Speed and Work
+    - Speed Time and Distance
+    - Work and Time
+    - Boats and Streams
+    - Pipes and Cisterns
+    
+  3. Progressions
+  4. Classic Banking
+  5. Probability and Combinatorics
+  6. Geometry
+  7. Equations
+  8. Misc
+  
+### Logical Resoning
+### Coding
 
 - Bulleted
 - List
