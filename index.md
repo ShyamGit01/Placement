@@ -11,8 +11,8 @@ Here wou will get Formulas, Questions, Tricks to slove
     - Ages <br>
     - Inverse <br> 
     
-  2. Speed and Work<br>
-    - Speed Time and Distance <br>
+  2. Speed and Work<br> 
+    - [Speed Time and Distance](https://shyamgit01.github.io/Placement/Quant/Speed, Time and Distance) <br>
     - Work and Time <br>
     - Boats and Streams <br>
     - Pipes and Cisterns <br>
