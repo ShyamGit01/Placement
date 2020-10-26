@@ -27,7 +27,7 @@ $ git clone
 3. Local changes
 Git add
 Add a file to staging (Index) area:
-$ git add Filename
+$ git add <Filename>
 Add all files of a repo to staging (Index) area:
 $ git add*
 Git commit
